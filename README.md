@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Janaíne Maieli 👋
 
-- 💼 Estou procurando um estágio na area de TI
+- 💼 Sou estagiária na area de TI
 - 📚Estou aprendendo back-end com .NET, C# e Banco de Dados SQL
 - 💬 Eu gosto de falar sobre livros, games, hamburger e cerveja.
 - 📫 Voês podem me contatar através do jmaielisribeiro@gmail.com ou www.linkedin.com/in/janaine-ribeiro ou www.instagram.com/gimme_books_ 
