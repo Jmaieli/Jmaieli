@@ -3,8 +3,7 @@
 - 💼 Fiz estágio em Analise e Desenvolvimento de Sistemas na empresa TransUnion, onde faziamos o tratamento de dados obtidos de fontes internas para utilizar no bureau de crédito.
 - 📚 Estou aprendendo back-end com .NET, C# Entity Framework e Banco de Dados SQL em um bootcamp na DIO.
 - 💬 Eu gosto de falar sobre livros, games, hamburger e cerveja.
-- 📫 Voês podem me contatar através do jmaielisribeiro@gmail.com ou www.linkedin.com/in/janaine-ribeiro ou www.instagram.com/gimme_books_ 
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
